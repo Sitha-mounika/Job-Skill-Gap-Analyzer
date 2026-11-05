@@ -1,0 +1,95 @@
+
+job_role,skill,skill_category,importance
+Data Analyst,Python,Programming,5
+Data Analyst,SQL,Database,5
+Data Analyst,Excel,Spreadsheet,4
+Data Analyst,Power BI,Visualization,5
+Data Analyst,Statistics,Analytics,4
+Data Analyst,Tableau,Visualization,3
+Data Analyst,Data Cleaning,Analytics,4
+Data Analyst,Communication,Soft Skills,3
+
+Data Scientist,Python,Programming,5
+Data Scientist,SQL,Database,4
+Data Scientist,Machine Learning,AI,5
+Data Scientist,Statistics,Analytics,5
+Data Scientist,Pandas,Programming,4
+Data Scientist,NumPy,Programming,4
+Data Scientist,Data Visualization,Visualization,3
+Data Scientist,Deep Learning,AI,3
+
+Python Developer,Python,Programming,5
+Python Developer,Django,Framework,4
+Python Developer,Flask,Framework,3
+Python Developer,SQL,Database,4
+Python Developer,Git,Tools,4
+Python Developer,REST API,Development,4
+Python Developer,Problem Solving,Soft Skills,3
+Business Analyst,Excel,Spreadsheet,5
+Business Analyst,SQL,Database,4
+Business Analyst,Power BI,Visualization,4
+Business Analyst,Communication,Soft Skills,5
+Business Analyst,Requirements Analysis,Analytics,5
+Business Analyst,Documentation,Analytics,3
+Business Analyst,Statistics,Analytics,3
+
+Power BI Analyst,Power BI,Visualization,5
+Power BI Analyst,DAX,Programming,5
+Power BI Analyst,Power Query,Data Processing,5
+Power BI Analyst,SQL,Database,4
+Power BI Analyst,Excel,Spreadsheet,4
+Power BI Analyst,Data Modeling,Analytics,5
+Power BI Analyst,Tableau,Visualization,3
+Power BI Analyst,Communication,Soft Skills,3
+
+Software Developer,Python,Programming,4
+Software Developer,Java,Programming,5
+Software Developer,C++,Programming,4
+Software Developer,JavaScript,Programming,4
+Software Developer,HTML,Web Development,3
+Software Developer,CSS,Web Development,3
+Software Developer,Git,Tools,4
+Software Developer,Object-Oriented Programming,Programming,5
+Software Developer,Data Structures,Computer Science,5
+Software Developer,Problem Solving,Soft Skills,4
+Software Developer,Testing,Software Engineering,4
+
+Data Engineer,Python,Programming,5
+Data Engineer,SQL,Database,5
+Data Engineer,ETL,Data Engineering,5
+Data Engineer,Apache Spark,Big Data,4
+Data Engineer,Data Warehousing,Database,5
+Data Engineer,Airflow,Data Engineering,4
+Data Engineer,AWS,Cloud,4
+Data Engineer,Docker,DevOps,3
+Data Engineer,Data Modeling,Analytics,4
+Data Engineer,Linux,Tools,3
+
+BI Developer,SQL,Database,5
+BI Developer,Power BI,Visualization,5
+BI Developer,Tableau,Visualization,4
+BI Developer,DAX,Programming,5
+BI Developer,Data Modeling,Analytics,5
+BI Developer,ETL,Data Engineering,4
+BI Developer,Excel,Spreadsheet,3
+BI Developer,Data Warehousing,Database,4
+
+Cloud Engineer,AWS,Cloud,5
+Cloud Engineer,Microsoft Azure,Cloud,5
+Cloud Engineer,Google Cloud,Cloud,4
+Cloud Engineer,Linux,Operating Systems,4
+Cloud Engineer,Docker,DevOps,5
+Cloud Engineer,Kubernetes,DevOps,4
+Cloud Engineer,Networking,Computer Science,4
+Cloud Engineer,Python,Programming,3
+
+Machine Learning Engineer,Python,Programming,5
+Machine Learning Engineer,Machine Learning,AI,5
+Machine Learning Engineer,Statistics,Analytics,4
+Machine Learning Engineer,TensorFlow,AI,5
+Machine Learning Engineer,PyTorch,AI,4
+Machine Learning Engineer,NumPy,Programming,4
+Machine Learning Engineer,Pandas,Programming,4
+Machine Learning Engineer,SQL,Database,3
+Machine Learning Engineer,Model Deployment,Machine Learning,4
+
